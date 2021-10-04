@@ -22,10 +22,15 @@ data.
 If I put in order basically,according to the user type, users can do:
 
 -Select their appointment.
+
 -Delete their appointment.
+
 -Create new appointment.
+
 -Edit an appointment.
+
 -Display their appointment in a more complex way.
+
 -Extract their appointment information to .pdf format.
 
 ---
@@ -33,4 +38,5 @@ If I put in order basically,according to the user type, users can do:
 Technologies which I used:
 
 -Java
+
 -JDBC (for the process of inserting, updating, deleting and selecting and reaching my datas)
