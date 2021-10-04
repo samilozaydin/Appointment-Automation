@@ -20,6 +20,7 @@ to .pdf format and the program user can display statistical
 data.
 
 If I put in order basically,according to the user type, users can do:
+
 -Select their appointment.
 -Delete their appointment.
 -Create new appointment.
